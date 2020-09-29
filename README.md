@@ -1,2 +1,2 @@
 # FLutter-destini_app
-![Alt Text]("Destini.gif")
+![Alt Text](Destini.gif)
